@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%26%20Response&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Software+Systems;Engineering+AI%2FML+Products;Full+Stack+%7C+Cloud+%7C+DevOps;Turning+Ideas+Into+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Defending+Systems+Against+Real+Threats;SIEM+%7C+Threat+Hunting+%7C+Incident+Response;Detection+Engineering+%26+Security+Automation;Turning+Logs+Into+Actionable+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20%7C%20Cybersecurity-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-%5BCity%2C%20Country%5D-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -31,49 +31,63 @@
 ## 🟣 About Me
 
 ```txt
-I'm a Software Engineer specializing in AI/ML systems and full-stack product
-engineering. I design and ship scalable backend architectures, build
-intelligent applications powered by machine learning, and craft performant,
-user-focused frontends. My work sits at the intersection of clean engineering
-practices and product-driven thinking — I care as much about system design
-and reliability as I do about the end-user experience.
+I'm a Blue Team / Cybersecurity Engineer specializing in security monitoring,
+threat detection, and incident response. I work across SIEM platforms, EDR
+tooling, and log pipelines to identify malicious activity before it becomes
+a breach — building detections, tuning alerts, and hardening infrastructure
+against real-world adversary behavior. My focus is defensive security done
+right: reducing noise, improving detection coverage, and responding fast
+when it matters. I think in terms of MITRE ATT&CK, kill chains, and
+detection engineering rather than just tickets and dashboards.
 ```
 
-**🔭 Open To:** Software Engineering Roles · AI/ML Engineering · Full Stack Opportunities · Open Source Collaboration
+**🔭 Open To:** SOC Analyst Roles · Threat Detection & Response · Detection Engineering · Security Operations · Purple Team Collaboration
 
 ---
 
 ## 🟣 Tech Stack
 
-**Languages**
+**Languages & Scripting**
 
-![Skill Icons](https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=python,bash,powershell,go,cpp&theme=dark)
 
-**Frontend**
+**SIEM, EDR & Monitoring**
 
-![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB0DA?style=flat-square&logo=wazuh&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F27?style=flat-square&logo=crowdstrike&logoColor=white)
 
-**Backend & Databases**
+**Cloud & Infrastructure Security**
 
-![Skill Icons](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark)
 
-**Cloud, DevOps & Tooling**
+**Frameworks & Tooling**
 
-![Skill Icons](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,git,linux&theme=dark)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C6282C?style=flat-square&logo=mitre&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E1?style=flat-square&logo=tenable&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![OSQuery](https://img.shields.io/badge/OSQuery-FF6600?style=flat-square&logo=osquery&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-D2262C?style=flat-square)
+![YARA](https://img.shields.io/badge/YARA-2F2F2F?style=flat-square)
 
 ---
 
-## 🟣 AI / ML Expertise
+## 🟣 Blue Team Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| Deep Learning | ⭐⭐⭐⭐☆ | CNNs, RNNs/Transformers, PyTorch & TensorFlow |
-| NLP | ⭐⭐⭐⭐☆ | Text classification, embeddings, LLM fine-tuning & RAG pipelines |
-| MLOps | ⭐⭐⭐☆☆ | Model deployment, versioning, monitoring, CI/CD for ML |
-| Generative AI | ⭐⭐⭐⭐☆ | Prompt engineering, LLM APIs, vector databases, agentic workflows |
+| Threat Detection & Hunting | ⭐⭐⭐⭐☆ | Building detections from ATT&CK TTPs, hypothesis-driven hunting, log correlation |
+| SIEM Engineering | ⭐⭐⭐⭐☆ | Splunk/Elastic/Sentinel rule creation, alert tuning, noise reduction, dashboarding |
+| Incident Response | ⭐⭐⭐⭐☆ | Triage, containment, root cause analysis, post-incident reporting |
+| Digital Forensics | ⭐⭐⭐☆☆ | Disk/memory forensics, timeline analysis, artifact recovery |
+| Malware Analysis | ⭐⭐⭐☆☆ | Static/dynamic analysis, sandboxing, IOC extraction |
+| Security Automation | ⭐⭐⭐⭐☆ | SOAR playbooks, Python scripting for detection & response workflows |
+| Network Security Monitoring | ⭐⭐⭐⭐☆ | IDS/IPS tuning, packet analysis, traffic baselining |
 
 </div>
 
@@ -82,59 +96,59 @@ and reliability as I do about the end-user experience.
 ## 🟣 Featured Projects
 
 <details>
-<summary><b>🔹 [Project One Name]</b></summary>
+<summary><b>🔹 [SIEM Detection Rule Pack Name]</b></summary>
 <br/>
 
-[One to two sentence description of what the project does and the problem it solves.]
+[A curated set of custom detection rules mapped to MITRE ATT&CK for common attacker TTPs, built for Splunk/Elastic.]
 
 | Category | Details |
 |---|---|
-| **Stack** | React, Node.js, PostgreSQL, Redis, Docker |
-| **Scale** | [e.g., 10K+ monthly active users] |
-| **Performance** | [e.g., p95 latency under 200ms] |
-| **Security** | [e.g., JWT auth, rate limiting, input sanitization] |
-| **Impact** | [e.g., Reduced processing time by 40%] |
-| **Repository** | [github.com/your-username/project-one](https://github.com/your-username/project-one) |
+| **Stack** | Splunk SPL, Elastic Query DSL, Python |
+| **Scale** | [e.g., 50+ detection rules across 10 ATT&CK tactics] |
+| **Performance** | [e.g., Reduced false positive rate by 35%] |
+| **Security** | [e.g., Mapped to MITRE ATT&CK, validated against Atomic Red Team] |
+| **Impact** | [e.g., Cut mean-time-to-detect by 40%] |
+| **Repository** | [github.com/your-username/detection-rules](https://github.com/your-username/detection-rules) |
 
-Built to solve [problem]. Architected with a focus on [scalability/reliability/etc.], leveraging [key technical decision] to achieve [outcome].
+Built to close detection gaps identified during purple team exercises. Each rule is documented with the corresponding ATT&CK technique, data source requirements, and tuning notes to minimize alert fatigue.
 
 </details>
 
 <details>
-<summary><b>🔹 [Project Two Name]</b></summary>
+<summary><b>🔹 [Automated IR Playbook / SOAR Tool Name]</b></summary>
 <br/>
 
-[One to two sentence description of what the project does and the problem it solves.]
+[A security automation tool that triages alerts, enriches IOCs, and executes response actions automatically.]
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, FastAPI, PyTorch, MongoDB |
-| **Scale** | [e.g., Processes 50K+ requests/day] |
-| **Performance** | [e.g., 95% inference accuracy] |
-| **Security** | [e.g., OAuth2, encrypted storage] |
-| **Impact** | [e.g., Automated a manual workflow saving 15 hrs/week] |
-| **Repository** | [github.com/your-username/project-two](https://github.com/your-username/project-two) |
+| **Stack** | Python, TheHive, Cortex, VirusTotal API |
+| **Scale** | [e.g., Processes 200+ alerts/day] |
+| **Performance** | [e.g., Reduced manual triage time by 60%] |
+| **Security** | [e.g., Least-privilege API access, audit-logged actions] |
+| **Impact** | [e.g., Freed up ~10 analyst-hours per week] |
+| **Repository** | [github.com/your-username/soar-playbooks](https://github.com/your-username/soar-playbooks) |
 
-Designed as an AI-powered system to [purpose]. Focused on [design principle], resulting in [measurable outcome].
+Designed to remove repetitive triage work from analysts by auto-enriching alerts with threat intel and executing pre-approved containment actions for high-confidence detections.
 
 </details>
 
 <details>
-<summary><b>🔹 [Project Three Name]</b></summary>
+<summary><b>🔹 [Home Lab / Threat Hunting Lab Name]</b></summary>
 <br/>
 
-[One to two sentence description of what the project does and the problem it solves.]
+[A self-hosted detection lab simulating attacker behavior to build and validate detection content.]
 
 | Category | Details |
 |---|---|
-| **Stack** | Next.js, TypeScript, AWS, Terraform |
-| **Scale** | [e.g., Multi-tenant SaaS architecture] |
-| **Performance** | [e.g., 99.9% uptime] |
-| **Security** | [e.g., RBAC, audit logging] |
-| **Impact** | [e.g., Onboarded 500+ users in first quarter] |
-| **Repository** | [github.com/your-username/project-three](https://github.com/your-username/project-three) |
+| **Stack** | ELK Stack, Sysmon, Atomic Red Team, Kali, Windows/Linux VMs |
+| **Scale** | [e.g., 15+ simulated attack scenarios] |
+| **Performance** | [e.g., End-to-end detection coverage validation] |
+| **Security** | [e.g., Fully isolated lab network, no production exposure] |
+| **Impact** | [e.g., Used as a testbed for all new detection logic before production] |
+| **Repository** | [github.com/your-username/threat-hunting-lab](https://github.com/your-username/threat-hunting-lab) |
 
-Built end-to-end as a full-stack product, emphasizing [technical highlight] and [engineering value].
+Built as a controlled environment to emulate adversary TTPs using Atomic Red Team, validate log visibility, and iterate on detection logic before deploying to production SIEM.
 
 </details>
 
@@ -142,30 +156,30 @@ Built end-to-end as a full-stack product, emphasizing [technical highlight] and 
 
 ## 🟣 Experience
 
-**[Job Title]** · **[Company Name]**
+**[Job Title, e.g. SOC Analyst]** · **[Company Name]**
 `[Month Year] – [Month Year / Present]`
 
-[One-paragraph professional description of the role and its scope.]
+[One-paragraph professional description of the role — monitoring, triage, and response responsibilities.]
 
-- Designed and implemented [system/feature] that [outcome]
-- Collaborated with [team/stakeholders] to deliver [project]
-- Optimized [process/system] resulting in [measurable improvement]
-- Mentored [team members] / led [initiative]
+- Monitored and triaged security alerts across SIEM platforms, identifying true positives from [X] daily events
+- Authored and tuned detection rules mapped to MITRE ATT&CK, reducing false positives by [percentage]
+- Led incident response for [type of incidents], coordinating containment and remediation
+- Documented findings and produced post-incident reports for stakeholders
 
-`Tech: React` `Node.js` `AWS` `PostgreSQL` `Docker`
+`Tools: Splunk` `CrowdStrike` `Microsoft Sentinel` `Python`
 
 <br/>
 
-**[Job Title]** · **[Company Name]**
+**[Job Title, e.g. Cybersecurity Intern]** · **[Company Name]**
 `[Month Year] – [Month Year]`
 
 [One-paragraph professional description of the role and its scope.]
 
-- Built [feature/system] using [technology]
-- Improved [metric] by [percentage/value]
-- Contributed to [larger initiative or product line]
+- Assisted in vulnerability assessments using [tool] across [number] endpoints
+- Built automation scripts to enrich alerts with threat intelligence
+- Supported security awareness initiatives and phishing simulation programs
 
-`Tech: Python` `Django` `Kubernetes` `GCP`
+`Tools: Nessus` `Wireshark` `Python` `Linux`
 
 ---
 
@@ -175,10 +189,10 @@ Built end-to-end as a full-stack product, emphasizing [technical highlight] and 
 
 | Recognition | Details |
 |---|---|
-| 🏆 [Award/Recognition Name] | [Organization, Year, brief context] |
-| 🥇 [Hackathon/Competition] | [Placement and event name, Year] |
-| 📜 [Publication/Patent] | [Title and venue, Year] |
-| ⭐ [Open Source Contribution] | [Project name and nature of contribution] |
+| 🏆 [CTF Competition Placement] | [Event name, ranking, Year] |
+| 🥇 [Bug Bounty / Vulnerability Disclosure] | [Program name, brief context, Year] |
+| 📜 [Conference Talk / Write-up] | [Title and venue, Year] |
+| ⭐ [Detection Content Contribution] | [Open-source detection repo, Sigma rules, etc.] |
 
 </div>
 
@@ -186,33 +200,43 @@ Built end-to-end as a full-stack product, emphasizing [technical highlight] and 
 
 ## 🟣 Certifications
 
-**AWS**
+**CompTIA**
 
-![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Certified%20Developer-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-C8102E?style=flat-square&logo=comptia&logoColor=white)
+![CySA+](https://img.shields.io/badge/CompTIA%20CySA%2B-C8102E?style=flat-square&logo=comptia&logoColor=white)
 
-**Oracle**
+**EC-Council**
 
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)
+![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-D40511?style=flat-square&logo=hackthebox&logoColor=white)
 
-**NPTEL**
+**GIAC / SANS**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![GCIH](https://img.shields.io/badge/GIAC%20Certified%20Incident%20Handler-000000?style=flat-square)
+![GCFA](https://img.shields.io/badge/GIAC%20Certified%20Forensic%20Analyst-000000?style=flat-square)
 
 **Cisco**
 
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+**Cloud Security**
+
+![AWS](https://img.shields.io/badge/AWS%20Certified%20Security%20%E2%80%93%20Specialty-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft%20SC--200-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Cyber%20Security%20%26%20Digital%20Forensics-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 
 ---
 
-## 🟣 Coding Profiles
+## 🟣 Practice & Ranking Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/[your-username])
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/[your-username])
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/[your-username])
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/[your-username])
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/[your-username])
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/[your-id])
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-1A1A2E?style=for-the-badge&logo=security&logoColor=white)](https://letsdefend.io/user/[your-username])
+[![CTFtime](https://img.shields.io/badge/CTFtime-1A1A1A?style=for-the-badge&logo=ctf&logoColor=white)](https://ctftime.org/user/[your-id])
 
 </div>
 
@@ -265,17 +289,17 @@ Built end-to-end as a full-stack product, emphasizing [technical highlight] and 
 
 ```yaml
 Learning:
-  - Advanced distributed systems design
-  - LLM fine-tuning & agentic architectures
+  - Advanced detection engineering with Sigma rules
+  - Cloud security monitoring (Azure Sentinel, AWS GuardDuty)
 Building:
-  - "[Current flagship project]"
+  - "[Current detection/automation project]"
 Exploring:
-  - Vector databases & retrieval-augmented generation
-  - Cloud-native infrastructure at scale
+  - Threat intelligence platforms & IOC enrichment pipelines
+  - Purple teaming and detection validation with Atomic Red Team
 Open To:
-  - Software Engineering roles
-  - AI/ML Engineering collaborations
-  - Open source contributions
+  - SOC Analyst / Blue Team roles
+  - Detection Engineering opportunities
+  - Security research collaboration
 ```
 
 ---
@@ -295,7 +319,7 @@ Open To:
 
 <div align="center">
 
-*"[Your one-line professional quote or engineering philosophy goes here.]"*
+*"Attackers only need to be right once. Defenders need to be right every time — that's why I build detections, not just dashboards."*
 
 ![Footer](https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
 
