@@ -8,8 +8,8 @@
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20%7C%20Cybersecurity-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-%5BCity%2C%20Country%5D-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/BSc%20IT-Information%20Technology-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -154,78 +154,11 @@ Built as a controlled environment to emulate adversary TTPs using Atomic Red Tea
 
 ---
 
-## 🟣 Experience
-
-**[Job Title, e.g. SOC Analyst]** · **[Company Name]**
-`[Month Year] – [Month Year / Present]`
-
-[One-paragraph professional description of the role — monitoring, triage, and response responsibilities.]
-
-- Monitored and triaged security alerts across SIEM platforms, identifying true positives from [X] daily events
-- Authored and tuned detection rules mapped to MITRE ATT&CK, reducing false positives by [percentage]
-- Led incident response for [type of incidents], coordinating containment and remediation
-- Documented findings and produced post-incident reports for stakeholders
-
-`Tools: Splunk` `CrowdStrike` `Microsoft Sentinel` `Python`
-
-<br/>
-
-**[Job Title, e.g. Cybersecurity Intern]** · **[Company Name]**
-`[Month Year] – [Month Year]`
-
-[One-paragraph professional description of the role and its scope.]
-
-- Assisted in vulnerability assessments using [tool] across [number] endpoints
-- Built automation scripts to enrich alerts with threat intelligence
-- Supported security awareness initiatives and phishing simulation programs
-
-`Tools: Nessus` `Wireshark` `Python` `Linux`
-
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 [CTF Competition Placement] | [Event name, ranking, Year] |
-| 🥇 [Bug Bounty / Vulnerability Disclosure] | [Program name, brief context, Year] |
-| 📜 [Conference Talk / Write-up] | [Title and venue, Year] |
-| ⭐ [Detection Content Contribution] | [Open-source detection repo, Sigma rules, etc.] |
-
-</div>
-
----
-
 ## 🟣 Certifications
-
-**CompTIA**
-
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-C8102E?style=flat-square&logo=comptia&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA%20CySA%2B-C8102E?style=flat-square&logo=comptia&logoColor=white)
 
 **EC-Council**
 
 ![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-D40511?style=flat-square&logo=hackthebox&logoColor=white)
-
-**GIAC / SANS**
-
-![GCIH](https://img.shields.io/badge/GIAC%20Certified%20Incident%20Handler-000000?style=flat-square)
-![GCFA](https://img.shields.io/badge/GIAC%20Certified%20Forensic%20Analyst-000000?style=flat-square)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-**Cloud Security**
-
-![AWS](https://img.shields.io/badge/AWS%20Certified%20Security%20%E2%80%93%20Specialty-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft%20SC--200-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Cyber%20Security%20%26%20Digital%20Forensics-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 
 ---
 
@@ -234,32 +167,9 @@ Built as a controlled environment to emulate adversary TTPs using Atomic Red Tea
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/[your-username])
+[![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security/user/[your-username])
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/[your-id])
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-1A1A2E?style=for-the-badge&logo=security&logoColor=white)](https://letsdefend.io/user/[your-username])
-[![CTFtime](https://img.shields.io/badge/CTFtime-1A1A1A?style=for-the-badge&logo=ctf&logoColor=white)](https://ctftime.org/user/[your-id])
-
-</div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=[your-username]&theme=algolia&no-frame=true&row=1&column=7&margin-w=10)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/[your-username])
 
 </div>
 
@@ -270,16 +180,6 @@ Built as a controlled environment to emulate adversary TTPs using Atomic Red Tea
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C9A7FF)
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
