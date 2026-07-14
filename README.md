@@ -156,7 +156,7 @@ Built as a controlled environment to emulate adversary TTPs using Atomic Red Tea
 
 ## 🟣 Certifications
 
-**EC-Council**
+**The Drop Organization**
 
 ![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-D40511?style=flat-square&logo=hackthebox&logoColor=white)
 
