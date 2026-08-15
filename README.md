@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%26%20Response&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Omkar&fontSize=42&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%26%20Response&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Defending+Systems+Against+Real+Threats;SIEM+%7C+Threat+Hunting+%7C+Incident+Response;Detection+Engineering+%26+Security+Automation;Turning+Logs+Into+Actionable+Intelligence" alt="Typing SVG" />
@@ -14,15 +14,15 @@
 <br/>
 
 <a href="https://[yourportfolio].com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/omkar-chavan-998626422"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/333omkar"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=[your-username]&color=6D28D9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/[your-username]?style=flat-square&color=7C3AED&label=Followers)
-![Stars](https://img.shields.io/github/stars/[your-username]?style=flat-square&color=8B5CF6&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=333omkar&color=6D28D9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/333omkar?style=flat-square&color=7C3AED&label=Followers)
+![Stars](https://img.shields.io/github/stars/333omkar?style=flat-square&color=8B5CF6&label=Stars)
 
 </div>
 
@@ -96,67 +96,47 @@ detection engineering rather than just tickets and dashboards.
 ## 🟣 Featured Projects
 
 <details>
-<summary><b>🔹 [SIEM Detection Rule Pack Name]</b></summary>
+<summary><b>🔹 RDRS — Ransomware Detection & Response System</b></summary>
 <br/>
 
-[A curated set of custom detection rules mapped to MITRE ATT&CK for common attacker TTPs, built for Splunk/Elastic.]
+Real-time file monitoring, honeypot decoys, process behavior analysis, and a live threat scoring dashboard built with Flask + Socket.IO.
 
 | Category | Details |
 |---|---|
-| **Stack** | Splunk SPL, Elastic Query DSL, Python |
-| **Scale** | [e.g., 50+ detection rules across 10 ATT&CK tactics] |
-| **Performance** | [e.g., Reduced false positive rate by 35%] |
-| **Security** | [e.g., Mapped to MITRE ATT&CK, validated against Atomic Red Team] |
-| **Impact** | [e.g., Cut mean-time-to-detect by 40%] |
-| **Repository** | [github.com/your-username/detection-rules](https://github.com/your-username/detection-rules) |
-
-Built to close detection gaps identified during purple team exercises. Each rule is documented with the corresponding ATT&CK technique, data source requirements, and tuning notes to minimize alert fatigue.
+| **Stack** | Python, Flask, Socket.IO |
+| **Repository** | [github.com/333omkar/RDRS](https://github.com/333omkar) |
 
 </details>
 
 <details>
-<summary><b>🔹 [Automated IR Playbook / SOAR Tool Name]</b></summary>
+<summary><b>🔹 SOC Automation Pipeline</b></summary>
 <br/>
 
-[A security automation tool that triages alerts, enriches IOCs, and executes response actions automatically.]
+Wazuh + n8n + VirusTotal + ServiceNow integration for automated incident response, built from scratch with Docker/WSL2.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, TheHive, Cortex, VirusTotal API |
-| **Scale** | [e.g., Processes 200+ alerts/day] |
-| **Performance** | [e.g., Reduced manual triage time by 60%] |
-| **Security** | [e.g., Least-privilege API access, audit-logged actions] |
-| **Impact** | [e.g., Freed up ~10 analyst-hours per week] |
-| **Repository** | [github.com/your-username/soar-playbooks](https://github.com/your-username/soar-playbooks) |
-
-Designed to remove repetitive triage work from analysts by auto-enriching alerts with threat intel and executing pre-approved containment actions for high-confidence detections.
+| **Stack** | Wazuh, n8n, VirusTotal API, ServiceNow, Docker |
+| **Repository** | [github.com/333omkar](https://github.com/333omkar) |
 
 </details>
 
 <details>
-<summary><b>🔹 [Home Lab / Threat Hunting Lab Name]</b></summary>
+<summary><b>🔹 Phishing Email Analyzer</b></summary>
 <br/>
 
-[A self-hosted detection lab simulating attacker behavior to build and validate detection content.]
+Modular Python CLI tool with VirusTotal integration for phishing detection.
 
 | Category | Details |
 |---|---|
-| **Stack** | ELK Stack, Sysmon, Atomic Red Team, Kali, Windows/Linux VMs |
-| **Scale** | [e.g., 15+ simulated attack scenarios] |
-| **Performance** | [e.g., End-to-end detection coverage validation] |
-| **Security** | [e.g., Fully isolated lab network, no production exposure] |
-| **Impact** | [e.g., Used as a testbed for all new detection logic before production] |
-| **Repository** | [github.com/your-username/threat-hunting-lab](https://github.com/your-username/threat-hunting-lab) |
-
-Built as a controlled environment to emulate adversary TTPs using Atomic Red Team, validate log visibility, and iterate on detection logic before deploying to production SIEM.
+| **Stack** | Python, VirusTotal API |
+| **Repository** | [github.com/333omkar/phishing-email-analyzer](https://github.com/333omkar/phishing-email-analyzer) |
 
 </details>
 
 ---
 
 ## 🟣 Certifications
-
-**The Drop Organization**
 
 ![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-D40511?style=flat-square&logo=hackthebox&logoColor=white)
 
@@ -166,10 +146,10 @@ Built as a controlled environment to emulate adversary TTPs using Atomic Red Tea
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/[your-username])
-[![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security/user/[your-username])
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/[your-id])
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/[your-username])
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/omkarchavan0305)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/)
 
 </div>
 
@@ -179,7 +159,7 @@ Built as a controlled environment to emulate adversary TTPs using Atomic Red Tea
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C9A7FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=333omkar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C9A7FF)
 
 </div>
 
@@ -192,7 +172,7 @@ Learning:
   - Advanced detection engineering with Sigma rules
   - Cloud security monitoring (Azure Sentinel, AWS GuardDuty)
 Building:
-  - "[Current detection/automation project]"
+  - CySA+ practice labs (SPL on Splunk, synthetic SOC dataset)
 Exploring:
   - Threat intelligence platforms & IOC enrichment pipelines
   - Purple teaming and detection validation with Atomic Red Team
@@ -209,8 +189,8 @@ Open To:
 <div align="center">
 
 <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/omkar-chavan-998626422"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/333omkar"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://[yourportfolio].com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
@@ -221,6 +201,6 @@ Open To:
 
 *"Attackers only need to be right once. Defenders need to be right every time — that's why I build detections, not just dashboards."*
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
 
 </div>
