@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Omkar&fontSize=42&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%26%20Response&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There%2C%20I%27m%20Omkar&fontSize=42&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%26%20Response&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Defending+Systems+Against+Real+Threats;SIEM+%7C+Threat+Hunting+%7C+Incident+Response;Detection+Engineering+%26+Security+Automation;Turning+Logs+Into+Actionable+Intelligence" alt="Typing SVG" />
