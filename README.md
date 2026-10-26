@@ -138,7 +138,7 @@ Modular Python CLI tool with VirusTotal integration for phishing detection.
 
 ## 🟣 Certifications
 
-![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-D40511?style=flat-square&logo=hackthebox&logoColor=white)
+![Comptia Security +](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-D40511?style=flat-square&logo=hackthebox&logoColor=white)
 
 ---
 
